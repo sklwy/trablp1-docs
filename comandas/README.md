@@ -16,10 +16,10 @@ Cadastro de Comandas
 | `comCod` | Long | 10 | Código |<br>
 | `mesCod` | Long | 10 | Código Mesa |<br>
 | `comPedidos` | Array |  | Lista de Pedidos |<br>
-| `comValorTotal` | Double | 255 |  | Valor Total de Comandas |<br>
-| `comDtaIni` | Date |  |  | Data Inicio/Hora |<br>
-| `comDtaFini` | Date |  |  | Data Fim/Hora |<br>
-| `comStatus` | String | 15 |  | Status |<br>
+| `comValorTotal` | Double | 255 | Valor Total de Comandas |<br>
+| `comDtaIni` | Date |  | Data Inicio/Hora |<br>
+| `comDtaFini` | Date |  | Data Fim/Hora |<br>
+| `comStatus` | String | 15 | Status |<br>
 
 ##### ENUMs
 
