@@ -17,9 +17,9 @@ Cadastro de Pedidos
 | `pedCod` | Long | 10 | Código |<br>
 | `comCod` | Long | 10 | Código Comandas |<br>
 | `proCod` | Long | 10 | Código Produto |<br>
-| `pedStatus` | String | 15 |  | Status |<br>
-| `pedVlrTotal` | Date |  |  | Valor Total de Pedido |<br>
-| `pedMemObs` | Date |  |  | Observação Pedido |<br>
+| `pedStatus` | String | 15 | Status |<br>
+| `pedVlrTotal` | Double |  | Valor Total de Pedido |<br>
+| `pedMemObs` | String | 255 | Observação Pedido |<br>
 
 ##### ENUMs
 
