@@ -1,4 +1,4 @@
-# Trabalho de Linguaguem de Programação I
+# Trabalho de Linguagem de Programação I
 
 # Documentação
 * [Comandas](./comandas/README.md)

@@ -1,4 +1,3 @@
-
 # Documentação Comandas
 Cadastro de Comandas
 
@@ -13,14 +12,14 @@ Cadastro de Comandas
 *listComandas*: `"/api/comandas/list` [`GET`]<br>
 
 ##### Campos 
-| **CAMPOS** | **TIPO** | **TAMANHO** | **TRADUÇÃO** |<br><br>
-| `comCod` | Long | 10 | Código |<br><br>
-| `mesCod` | Long | 10 | Código Mesa |<br><br>
-| `comPedidos` | Array |  | Lista de Pedidos |<br><br>
-| `comValorTotal` | Double | 255 |  | Valor Total do Pedido |<br><br>
-| `comDtaIni` | Date |  |  | Data Inicio/Hora |<br><br>
-| `comDtaFini` | Date |  |  | Data Fim/Hora |<br><br>
-| `comStatus` | String |  | ![datetime] | Status |<br><br>
+| **CAMPOS** | **TIPO** | **TAMANHO** | **TRADUÇÃO** |<br>
+| `comCod` | Long | 10 | Código |<br>
+| `mesCod` | Long | 10 | Código Mesa |<br>
+| `comPedidos` | Array |  | Lista de Pedidos |<br>
+| `comValorTotal` | Double | 255 |  | Valor Total de Comandas |<br>
+| `comDtaIni` | Date |  |  | Data Inicio/Hora |<br>
+| `comDtaFini` | Date |  |  | Data Fim/Hora |<br>
+| `comStatus` | String | 15 |  | Status |<br>
 
 ##### ENUMs
 
