@@ -15,6 +15,6 @@ Cadastro de Produtos
 ##### Campos 
 | **CAMPOS** | **TIPO** | **TAMANHO** | **TRADUÇÃO** |<br>
 | `proCod` | Long | 10 | Código |<br>
-| `proDesNome` | Long | 10 | Descrição Produto |<br>
-| `proIngrediente` | Array | Descrição Ingredientes |<br>
+| `proDesNome` | String | 10 | Descrição Produto |<br>
+| `proIngrediente` | String | Descrição Ingredientes |<br>
 | `proValor` | Double | 255 | Valor Total de Produto |<br>
